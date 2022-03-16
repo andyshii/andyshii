@@ -12,3 +12,6 @@ I used to be a land data analyst. Now I'm doing Data Science.
 ### Education 
 - **Master Degree** in The State University of Land Use Planning (2016 — 2018)
 - **Bachelor Degree** in The State University of Land Use Planning (2012 - 2016)
+
+### Contact me 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreySH1)
