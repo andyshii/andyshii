@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I used to be a land data analyst. Now I'm doing Data Science.
+Welcome to my page! </br>
+I'm Andrey, Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="15"/> Moscow, Russia
 
 ### Work experience 
 | Job Position                 | Company                                   | Field                         | Work Period         |
