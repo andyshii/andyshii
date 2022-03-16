@@ -18,7 +18,7 @@ I'm Andrey, Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreySH1)
 
 ### Python 
-![CodeWars](https://www.codewars.com/users/AndiShii/badges/large)
+![CodeWars](https://www.codewars.com/users/AndyShii/badges/large)
 
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
