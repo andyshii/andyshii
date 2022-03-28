@@ -3,6 +3,8 @@
 Welcome to my page! </br>
 I'm Andrey, Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="15"/> Moscow, Russia
 
+[Read CV](https://drive.google.com/file/d/1qmW_NbYKg44a0Yv3JC35-NCl0YIiFowb/view?usp=sharing)
+
 ### Work experience 
 | Job Position                 | Company                                   | Field                         | Work Period         |
 | -----------------------------| ------------------------------------------| ------------------------------| --------------------|
